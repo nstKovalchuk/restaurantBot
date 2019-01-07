@@ -1,1 +1,1 @@
-web: python restaurantBotgit init.py
+web: python restaurantBot.py
